@@ -15,13 +15,13 @@ export default function Education() {
     {
       institution: "Holy Mission Senior Secondary School, Patna",
       degree: "12th Grade",
-      period: "2022",
+      
       score: "96.4%",
     },
     {
       institution: "Ishan International Public School, Patna",
       degree: "10th Grade",
-      period: "2020",
+      
       score: "95%",
     },
   ]
