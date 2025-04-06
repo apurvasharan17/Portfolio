@@ -43,7 +43,7 @@ export default function Hero() {
                 <Link href="#contact">Contact Me</Link>
               </Button>
               <Button asChild size="lg">
-                <Link href="https://drive.google.com/file/d/1s9t6c0IPhTZrpSJ0kI-3GFlU4R6-7_56/view?usp=sharing">View Resume</Link>
+                <Link href="https://docs.google.com/document/d/1PcMwo-JnRUutVf2IuZ4SrLx--WIDe6lE/edit?usp=sharing&ouid=106948765276598516008&rtpof=true&sd=true">View Resume</Link>
               </Button>
             </div>
 
