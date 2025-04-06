@@ -86,7 +86,7 @@ export default function Education() {
                       <h4 className="text-lg font-semibold">{item.institution}</h4>
                       <p className="text-foreground/70">{item.degree}</p>
                       <div className="flex items-center gap-2 mt-2 text-sm text-foreground/60">
-                        <Calendar className="h-4 w-4" />
+                       {item.period && <Calendar className="h-4 w-4" />}
                         <span>{item.period}</span>
                       </div>
                       <p className="mt-2 text-primary font-medium">{item.score}</p>
