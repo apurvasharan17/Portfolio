@@ -35,7 +35,7 @@ export default function Hero() {
               React.js, Node.js, and full-stack development.
             </p>
 
-            <div className="flex flex-wrap gap-4">
+            <div className="flex flex-wrap gap-4 flex-col md:flex-row">
               <Button asChild size="lg">
                 <Link href="#projects">View Projects</Link>
               </Button>
@@ -58,7 +58,7 @@ export default function Hero() {
                 <span className="sr-only">GitHub</span>
               </Link>
               <Link
-                href="https://linkedin.com/in/apurva-sharan"
+                href="https://www.linkedin.com/in/apurvasharan17/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-foreground/70 hover:text-primary transition-colors"
