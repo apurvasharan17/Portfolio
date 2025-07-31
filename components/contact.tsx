@@ -154,6 +154,7 @@ export default function Contact() {
                         name="name"
                         value={formData.name}
                         onChange={handleChange}
+                        placeholder="Enter your name.."
                         required
                         disabled={isSubmitting}
                       />
@@ -168,7 +169,7 @@ export default function Contact() {
                         type="email"
                         value={formData.email}
                         onChange={handleChange}
-                        placeholder="john@example.com"
+                        placeholder="Enter your email.."
                         required
                         disabled={isSubmitting}
                       />
