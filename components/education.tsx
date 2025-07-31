@@ -10,7 +10,7 @@ export default function Education() {
       institution: "Presidency University, Bangalore",
       degree: "Bachelor of Computer Applications",
       period: "2022-2025",
-      score: "CGPA - 9.8",
+      score: "CGPA - 9.69",
     },
     {
       institution: "Holy Mission Senior Secondary School, Patna",
