@@ -154,7 +154,6 @@ export default function Contact() {
                         name="name"
                         value={formData.name}
                         onChange={handleChange}
-                        placeholder="John Doe"
                         required
                         disabled={isSubmitting}
                       />
