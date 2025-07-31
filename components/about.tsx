@@ -31,10 +31,10 @@ export default function About() {
             <div className="space-y-4 text-foreground/80">
               <p>
                 I'm Apurva Sharan, a passionate Full Stack Developer currently pursuing my Bachelor's in Computer
-                Applications at Presidency University, Bangalore with a CGPA of 9.8.
+                Applications at Presidency University, Bangalore with a CGPA of 9.69.
               </p>
               <p>
-                I specialize in building responsive and user-friendly web applications using modern technologies like
+                I specialize in building responsive and user-friendly web applications using modern technologies like React Native,
                 React.js, Node.js, and Express.js. My experience includes developing real-time communication solutions,
                 e-commerce platforms, and video streaming services.
               </p>
