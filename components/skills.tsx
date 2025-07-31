@@ -14,7 +14,7 @@ export default function Skills() {
     {
       title: "Frontend",
       icon: <Layers className="h-6 w-6 text-primary" />,
-      skills: ["React.js", "HTML", "CSS", "Responsive Design"],
+      skills: ["React.js","React Native", "HTML", "CSS", "Responsive Design"],
     },
     {
       title: "Backend",
